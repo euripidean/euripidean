@@ -1,18 +1,104 @@
 # Ey up!
 ## My name is Jane and I'm a trainee Software Developer
 
+I'm studying Applied Computer Science at Dominican University of California and am a Dev Degree Intern at Shopify.
 
-<!--
-**euripidean/euripidean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently adding to my tool-kit
+### Front-end
+- HTML
+- CSS
+- JavaScript
+- React
+### Back-end
+- Python
+- SQL
+- MySQL
+- Ruby on Rails
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
