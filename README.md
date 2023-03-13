@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ey up!
+## My name is Jane and I'm a trainee Software Developer
+
 
 <!--
 **euripidean/euripidean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
