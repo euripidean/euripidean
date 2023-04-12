@@ -9,11 +9,14 @@ I'm studying Applied Computer Science at Dominican University of California and 
 - CSS
 - JavaScript
 - React
+- Boostrap
 ### Back-end
 - Python
 - SQL
 - MySQL
 - Ruby on Rails
+- Node.js
+- Express.js
 
 
 
