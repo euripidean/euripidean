@@ -3,7 +3,7 @@
 
 I'm studying Applied Computer Science at Dominican University of California and am a Dev Degree Intern at Shopify.
 
-## 🌱 Currently adding to my tool-kit
+## 🌱 Currently adding to my tool-kit:
 ### Front-end
 - HTML
 - CSS
@@ -17,6 +17,17 @@ I'm studying Applied Computer Science at Dominican University of California and 
 - Ruby on Rails
 - Node.js
 - Express.js
+### Data
+- Python
+- NumPy
+- Pandas
+- SQL
+- Anaconda
+- R / R Studio
+- BeautifulSoup
+- Jupyter Notebooks
+- Power BI
+- Excel
 
 
 
