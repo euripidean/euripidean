@@ -1,7 +1,7 @@
 # Ey up!
 ## My name is Jane and I'm a trainee Software Developer
 
-I'm studying Applied Computer Science at Dominican University of California alongside participating in the **Dev Degree** program at **Shopify** <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">.
+I'm studying Applied Computer Science as part of the **Dev Degree** program at <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
 
 ## The Lowdown
 <p align="center">
