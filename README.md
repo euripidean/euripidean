@@ -1,7 +1,7 @@
 # Ey up!
 ## My name is Jane and I'm a trainee Software Developer
 
-I'm studying Applied Computer Science as part of the **Dev Degree** program at **Shopify**.
+I'm studying Applied Computer Science as part of the **Dev Degree** program at **Shopify**. Before starting Dev Degree, I worked largely for non-profit arts organisations in the UK and Canada, working with Ticketing Systems and Box Offices for theatres and festivals. This means I'm pretty handy under pressure, used to working with limited resources and have definitely run into some applications that aren't user friendly which required creative problem solving!
 
 ## The Lowdown
 <p align="center">
@@ -10,7 +10,7 @@ I'm studying Applied Computer Science as part of the **Dev Degree** program at *
 </p>
 
 ## The story so far...
-As part of **Dev Degree** I get the opportunity to try a lot of different technologies and disciplines as I learn more about development and start to make decisions about which direction I'd like to take my career. As I learn what I'm interested in and where my passions lie as a developer, I'll be honing this list down to a smaller list where I can grow my skills.
+As part of **Dev Degree** I get the opportunity to try a lot of different technologies and disciplines as I learn more about development and start to make decisions about which direction I'd like to take my career. As I learn what I'm interested in and where my passions lie as a developer, I'll be honing this list into a more specialised skillset where I can grow my mastery.
 
 ### Frontend
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
