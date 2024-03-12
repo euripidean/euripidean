@@ -1,4 +1,5 @@
-# Ey up!
+# Ey up! <a href="https://emoji.gg/emoji/7743-yorkshire"><img src="https://cdn3.emoji.gg/emojis/7743-yorkshire.png" width="32px" height="32px" alt="yorkshire"></a>
+
 ## My name is Jane and I'm a trainee Software Developer
 
 I'm studying Applied Computer Science as part of the **Dev Degree** program at **Shopify**. Before starting Dev Degree, I worked largely for non-profit arts organisations in the UK and Canada, working with Ticketing Systems and Box Offices for theatres and festivals. This means I'm pretty handy under pressure, used to working with limited resources and have definitely run into some applications that aren't user friendly which required creative problem solving (ask anyone who works in ticketing)!
