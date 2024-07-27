@@ -2,7 +2,9 @@
 
 ## Hi, I'm Jane!
 
-I'm an intern in the **Dev Degree** program at **Shopify**. Before starting Dev Degree, I worked largely for non-profit arts organisations in the UK and Canada, working with Ticketing Systems and Box Offices for theatres and festivals. This means I'm pretty handy under pressure, used to working with limited resources and have definitely run into some applications that aren't user friendly which required creative problem solving (ask anyone who works in ticketing)!
+I'm an intern in the **Dev Degree** program at **Shopify**. 
+
+Before starting Dev Degree, I worked largely for non-profit arts organisations in the UK and Canada, working with Ticketing Systems and Box Offices for theatres and festivals. This means I'm pretty handy under pressure, used to working with limited resources and have definitely run into some applications that aren't user friendly which required creative problem solving (ask anyone who works in ticketing)!
 
 ## The story so far...
 As part of **Dev Degree** I get the opportunity to try a lot of different technologies and disciplines as I learn more about development and start to make decisions about which direction I'd like to take my career. As I learn what I'm interested in and where my passions lie as a developer, I'll be honing this list into a more specialised skillset where I can grow my mastery.
