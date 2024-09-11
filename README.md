@@ -18,6 +18,7 @@ As part of **Dev Degree** I get the opportunity to try a lot of different techno
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> 
 
 ### Working on
+- Final Dev Degree placement as a Software Engineer on the Marketing Automations team @Shopify
 - WordPress Plugin Development for Elevent Solutions
 - Working through Boot.dev as learning reinforcement
 - Figuring out more data structures and algorithims
