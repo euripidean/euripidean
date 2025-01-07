@@ -21,7 +21,7 @@ As part of **Dev Degree** I get the opportunity to try a lot of different techno
 - Final Dev Degree placement as a Software Engineer on the Marketing Automations team @Shopify
 - WordPress Plugin Development for Elevent Solutions
 - Working through Boot.dev as learning reinforcement
-- Figuring out more data structures and algorithims
+- Figuring out more data structures and algorithms
 
 
 
